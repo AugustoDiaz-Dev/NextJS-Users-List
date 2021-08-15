@@ -1,0 +1,26 @@
+.title {
+  color: #fe826a;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.text {
+  color: #777;
+}
+.btn {
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: #fe826a;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.btn:hover {
+  color: #fe826a;
+  background-color: #fff;
+  border: 2px solid #fe826a;
+  border-radius: 4px;
+  padding: 8px 0;
+}
