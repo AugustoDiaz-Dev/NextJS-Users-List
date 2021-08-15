@@ -5,6 +5,11 @@ body {
   color: #333;
   font-family: "Nunito";
 }
+.title {
+  color: #fe826a;
+  padding-bottom: 20px;
+  text-align: center;
+}
 a {
   color: #333;
   text-decoration: none;
